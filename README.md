@@ -153,6 +153,14 @@ flowchart TD
 
 ---
 
+---
+
+# Don't Overcomplicate the Process
+## AI Engineer is a Software Engineer First. Build your Python and Software Foundations Before Chasing Flashy models. Start Mastering the Knife.
+
+---
+
+
 ## 🤝 Contributing
 
 Found a gap, a broken link, or want to add resources to a layer? PRs and issues are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
