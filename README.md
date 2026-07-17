@@ -402,7 +402,7 @@ If this roadmap helped you, a ⭐ star helps other people find it too.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-therealrinaz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therealrinaz)
 
-[![X](https://img.shields.io/badge/X-@thereal__rinaz-black?logo=x&logoColor=white)](https://x.com/thereal_rinaz)
+[![X](https://img.shields.io/badge/X-@thereal__rinaz-black?logo=x&logoColor=white)](https://x.com/therealrinaz)
 
 
 *— THEREAL_RINAZ*
